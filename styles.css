@@ -54,11 +54,13 @@ img {
 
 .header {
     max-width: 80%;
+    height: 100vh;
     display: flex;
     justify-content: center;
     align-items: center;
     margin: 0 auto;
     padding: 0 40px;
+
 }
 
 .container {
