@@ -3,7 +3,7 @@ body {
     /* height: 100vh; */
     margin: 0;
     padding: 0;
-    background: linear-gradient(hsla(292, 88%, 13%, 0.968), rgb(23, 1, 50), hsla(292, 88%, 13%, 0.968));
+    background: linear-gradient(90deg, hsla(292, 88%, 13%, 0.968), rgb(23, 1, 50), hsla(292, 88%, 13%, 0.968));
     color: #f5f6f7;
     font-family: Sans-serif;
     font-size: 16px;
